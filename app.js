@@ -54,10 +54,23 @@
 // }
 // document.write("<h1>Random Number Between 1 to 100 is: " + roundNumber)
 
+
 // **********QUESTION 7**********
 
 // var input = prompt("Enter Your Weight Here")
 // var weight = parseInt(input)
 // document.write("<h3>" + "The Weight of user is :" + weight + "Kilograms" + "<h3/>")
+
+
+// **********QUESTION 8**********
+
+// var secretNumber = 7
+// var input = +prompt("Guess the Secret Number From 1 to 10")
+// if(secretNumber === input){
+//     alert("Congratulations! Your Guess is Correct ")
+// }
+// else {
+//     alert("Better Luck Next Time")
+// }
 
 
