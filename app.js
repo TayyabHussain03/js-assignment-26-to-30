@@ -53,3 +53,11 @@
 //     roundNumber = Math.round(Math.random() * 100)
 // }
 // document.write("<h1>Random Number Between 1 to 100 is: " + roundNumber)
+
+// **********QUESTION 7**********
+
+// var input = prompt("Enter Your Weight Here")
+// var weight = parseInt(input)
+// document.write("<h3>" + "The Weight of user is :" + weight + "Kilograms" + "<h3/>")
+
+
