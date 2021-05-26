@@ -31,3 +31,16 @@
 
 // var diceValue = Math.round((Math.random()*4) + 2)
 // document.write("<h3>" + "Random Dice Value is: " + diceValue + "</h3>")
+
+
+// **********QUESTION 5**********
+
+// var p1Name = prompt("Enter Player1 Name")
+// var p2Name = prompt("Enter Player2 Name")
+// var toss = prompt("Enter Heads or Tails")
+// if(toss.toLowerCase() === "heads"){
+//     alert(p1Name + " Won the Toss")
+// }
+// else{
+//     alert(p2Name + " Won the Toss")
+// }
