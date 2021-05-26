@@ -25,3 +25,9 @@
 // number = Math.abs(userValue)
 
 // document.write("<h2>" + "The user value is: "+ userValue +" <br/>The absolute value is: "+ number);
+
+
+// **********QUESTION 4**********
+
+// var diceValue = Math.round((Math.random()*4) + 2)
+// document.write("<h3>" + "Random Dice Value is: " + diceValue + "</h3>")
