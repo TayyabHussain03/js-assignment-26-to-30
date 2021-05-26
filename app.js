@@ -44,3 +44,12 @@
 // else{
 //     alert(p2Name + " Won the Toss")
 // }
+
+
+// **********QUESTION 6**********
+
+// roundNumber = Math.round(Math.random() * 100)
+// if (roundNumber === 0) {
+//     roundNumber = Math.round(Math.random() * 100)
+// }
+// document.write("<h1>Random Number Between 1 to 100 is: " + roundNumber)
